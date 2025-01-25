@@ -1,0 +1,8 @@
+Column Name,Description
+age,The age of the individual in years.
+sex,The gender of the individual (male or female).
+bmi,"Body Mass Index, a value derived from the weight and height of the individual."
+children,The number of children or dependents covered by the insurance policy for the individual.
+smoker,Indicates whether the individual is a smoker ('yes' or 'no').
+region,"The geographical region in the US where the individual resides (e.g., southwest, southeast, northwest, northeast)."
+charges,"The medical insurance charges billed to the individual, in dollars."
